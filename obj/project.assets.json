@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/liangwang/azure/teamatlantis/TeamAtlantis/TeamAtlantis.csproj",
+      "projectUniqueName": "/Users/liangwang/azure/teamatlantis/TeamAtlantis.csproj",
       "projectName": "TeamAtlantis",
-      "projectPath": "/Users/liangwang/azure/teamatlantis/TeamAtlantis/TeamAtlantis.csproj",
+      "projectPath": "/Users/liangwang/azure/teamatlantis/TeamAtlantis.csproj",
       "packagesPath": "/Users/liangwang/.nuget/packages/",
-      "outputPath": "/Users/liangwang/azure/teamatlantis/TeamAtlantis/obj/",
+      "outputPath": "/Users/liangwang/azure/teamatlantis/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/liangwang/.nuget/NuGet/NuGet.Config"
