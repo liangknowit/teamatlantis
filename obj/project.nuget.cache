@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bHVymIe7qxxiirvflJr4cwfWPm8L+N/SQhPQrm/JnwVhweeVzZczUDQMLsmpso/uO0SK4G7rRalp03ANg+VtNQ==",
+  "dgSpecHash": "2Iug9D6/a8JzwFotdZDdJDMtkCKtq1mx8ueKk/P4ITrfVTGQf5SN6WlFEI0skHEM6G6AkkXSsbhnQkEG79u40g==",
   "success": true,
-  "projectFilePath": "/Users/liangwang/azure/teamatlantis/TeamAtlantis.csproj",
+  "projectFilePath": "/Users/liangwang/test/TeamAtlantis.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
