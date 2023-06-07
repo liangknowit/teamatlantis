@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2m3Rjp8agr4NHH6Oyo5RIL7zHJC471KLkQ5Q7jGcltWTqrbJJlIEhkzR+CvoC50esu5D+0OTcNxMfLUN3cYi4w==",
+  "dgSpecHash": "eHbekVnHZBrIjr+WIOTxm96byrVfEMuDBI0c6TU/nbGt55X3vt46qcX0nxEqdXRrAu8TPoSLvD1MEpdVAaDckg==",
   "success": true,
   "projectFilePath": "/Users/liangwang/test/TeamAtlantis.csproj",
-  "expectedPackageFiles": [
-    "/Users/liangwang/.nuget/packages/microsoft.netcore.app.ref/6.0.11/microsoft.netcore.app.ref.6.0.11.nupkg.sha512",
-    "/Users/liangwang/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.11/microsoft.aspnetcore.app.ref.6.0.11.nupkg.sha512",
-    "/Users/liangwang/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.11/microsoft.netcore.app.host.osx-x64.6.0.11.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
